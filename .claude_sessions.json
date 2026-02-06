@@ -5,7 +5,13 @@
       "name": "2026-02-06 12:24 - Design: kurs12",
       "created_at": "2026-02-06T12:24:57.145654Z",
       "last_used": "2026-02-06T12:24:57.145654Z"
+    },
+    {
+      "id": "0e870f27-ccae-41f4-94a2-f8bffe020b42",
+      "name": "2026-02-06 12:33 - Implement: kurs12",
+      "created_at": "2026-02-06T12:33:47.571918Z",
+      "last_used": "2026-02-06T12:33:47.571918Z"
     }
   ],
-  "active_session": "2b42044d-851b-4a86-a644-9486ac8b3599"
+  "active_session": "0e870f27-ccae-41f4-94a2-f8bffe020b42"
 }
